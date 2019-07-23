@@ -156,9 +156,3 @@ License
 
 [Apache 2.0](./LICENSE)
 
-
-Author Information
-------------------
-
-* [Marc Zottner](https://github.com/Maarc)
-* [Roeland van de Pol](https://github.com/roelandpol)
